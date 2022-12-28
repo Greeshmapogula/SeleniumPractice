@@ -4,3 +4,4 @@ All the code is done in Java.
 Used Maven Project to work.
 
 1. LaunchBrowser - Adding selenium dependency in POM file & installing chrome driver.
+2. JavscriptExecutors - Various operations using JavascriptExecutors in slenium.
